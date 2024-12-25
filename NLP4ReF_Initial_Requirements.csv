@@ -1,0 +1,20 @@
+Requirement Number,Requirement
+1,Classify requirements into the 12 FR and NFR classes accurately
+2,Classify requirements into the 6 systems classes accurately
+3,Generate new requirements that capture the input requirements meaning
+4,Perform the Algorithms main functions automatically
+5,Ensure modularity and ease of updating for the algorithm
+6,Use the PROMISE_exp dataset to test and compare the algorithms with previous studies
+7,Create an enhanced PROMISE requirements dataset base on IoT for testing
+8,"Provide comprehensive documentation, and user guides to assist users in understanding and utilizing the system effectively"
+9,Take users less than 1 hour to implement / install the software
+10,Ensure that the system's time processing remains under 1 hour
+11,Support Excel-format CSV files upload and download.
+12,"Keep a unique template format of 4 columns; (1) requirement number, (2) requirement text, (3) FR/NFR category, and (4) system classes"
+13,Allow users to define preferred input and output file paths and destinations
+14,Enable the system to handle a minimum input of 0 to 2000 requirements
+15,Match or surpass the FR/NFR performance results from prior research
+16,"Match or surpass the generative performance: Precision 78%, Recall 78%, F1 Score 78%, Authenticity 100%, Bleau Score 24%, Self Bleu Score 24%"
+17,Operate the NLP4ReF-NLTK method without the need of internet connection
+18,Support personal OpenAI ID and code.
+19,Operate the NLP4ReF-GPT Method while always being connected to internet connection
